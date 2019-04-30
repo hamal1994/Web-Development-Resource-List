@@ -27,6 +27,8 @@ Below you will find a list of resources that I have used with links.
 
 ## CSS 💥
 
+* [Understanding the CSS Box Model](https://webdesign.tutsplus.com/courses/understanding-the-css-box-model)  👀
+
 * [CSS Animations](http://animista.net/)
 * [Visual CSS Grid Cheat Sheet](http://grid.malven.co/)
 * [Peek at other site styles](http://stylifyme.com/)
