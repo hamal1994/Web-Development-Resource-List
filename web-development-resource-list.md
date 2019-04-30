@@ -6,6 +6,8 @@ Below you will find a list of resources that I have used with links.
 
 * [Introduction to HTML](https://scrimba.com/g/ghtml)
 
+*************************************************************************
+
 ## CSS
 
 * [CSS Animations](http://animista.net/)
@@ -15,6 +17,8 @@ Below you will find a list of resources that I have used with links.
 * [Material Colours](https://www.materialui.co/colors)
 * [CSS Path Clip](https://bennettfeely.com/clippy/)
 
+*************************************************************************
+
 ## JAVASCRIPT
 
 ### E-Books
@@ -23,6 +27,8 @@ Below you will find a list of resources that I have used with links.
 * [You don't know JS series](https://github.com/getify/You-Dont-Know-JS)
 
 * [JS Jargon](http://jargon.js.org/)
+
+*************************************************************************
 
 ## Text Editors
 
