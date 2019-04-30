@@ -14,8 +14,8 @@ Below you will find a list of resources that I have used with links.
 
 * Image source: `https://www.helloitsliam.com/2014/12/20/how-the-internet-works-infographic/`
 
-[What is the Internet](https://www.youtube.com/watch?v=Dxcc6ycZ73M) 👀
-[Internet Fundamentals](http://internetfundamentals.com/) 👀
+* [What is the Internet](https://www.youtube.com/watch?v=Dxcc6ycZ73M) 👀
+* [Internet Fundamentals](http://internetfundamentals.com/) 👀
 
 *************************************************************************
 
