@@ -22,6 +22,9 @@ Image source: `https://www.helloitsliam.com/2014/12/20/how-the-internet-works-in
 
 * [Introduction to HTML](https://scrimba.com/g/ghtml)
 
+* [Semantic HTML: How to Structure Web Pages](https://webdesign.tutsplus.com/courses/semantic-html-how-to-structure-web-pages) 👀
+
+
 *************************************************************************
 
 ## CSS 💥
