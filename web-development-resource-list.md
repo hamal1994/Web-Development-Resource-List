@@ -2,7 +2,7 @@
 
 Below you will find a list of resources that I have used with links.
 
-## HTML
+## HTML ![HTML 5 LOGO](https://www.w3.org/html/logo/downloads/HTML5_Logo_128.png)
 * [Introduction to HTML](https://scrimba.com/g/ghtml)
 
 ## CSS
