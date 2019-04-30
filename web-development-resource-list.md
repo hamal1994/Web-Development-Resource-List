@@ -18,6 +18,7 @@ Below you will find a list of resources that I have used with links.
 ## JAVASCRIPT
 
 ### E-Books
+
 * [Eloquent Javascript](http://eloquentjavascript.net/)
 * [You don't know JS series](https://github.com/getify/You-Dont-Know-JS)
 
