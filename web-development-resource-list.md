@@ -2,13 +2,13 @@
 
 Below you will find a list of resources that I have used with links.
 
-## HTML
+## HTML 💥
 
 * [Introduction to HTML](https://scrimba.com/g/ghtml)
 
 *************************************************************************
 
-## CSS
+## CSS 💥
 
 * [CSS Animations](http://animista.net/)
 * [Visual CSS Grid Cheat Sheet](http://grid.malven.co/)
@@ -19,7 +19,7 @@ Below you will find a list of resources that I have used with links.
 
 *************************************************************************
 
-## JAVASCRIPT
+## JAVASCRIPT 💥
 
 ### E-Books
 
@@ -30,7 +30,7 @@ Below you will find a list of resources that I have used with links.
 
 *************************************************************************
 
-## Text Editors
+## Text Editors 💥
 
 * [Atom](https://atom.io/)
 * [VS Code](https://code.visualstudio.com/)
