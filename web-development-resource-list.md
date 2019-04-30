@@ -8,6 +8,10 @@ Below you will find a list of resources that I have used with links.
 
 # CSS
 * [CSS Animations](http://animista.net/)
+* [Visual CSS Grid Cheat Sheet](http://grid.malven.co/)
+* [Peek at other site styles](http://stylifyme.com/)
+* [CSS Plant](http://stylifyme.com/)
+* [Material Colours](https://www.materialui.co/colors)
 
 # JAVASCRIPT
 
