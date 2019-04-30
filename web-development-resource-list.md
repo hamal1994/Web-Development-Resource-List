@@ -1,8 +1,19 @@
-# Learning Resources and useful links
+# Web Development Resourse List
 
 📱 💻 🖥️
 
 Below you will find a list of resources that I have used with links.
+
+
+## Internet/Web 💥
+
+> The Internet is a global system of interconnected computer networks that use the Internet protocol suite (TCP/IP) to link several billion devices worldwide. It is a network of networks that consists of millions of private, public, academic, business, and government networks of local to global scope, linked by a broad array of electronic, wireless, and optical networking technologies. The Internet carries an extensive range of information resources and services, such as the inter-linked hypertext documents and applications of the World Wide Web (WWW), electronic mail, telephony, and peer-to-peer networks for file sharing.
+
+- Wikipedia
+
+![How the internet works](https://frontendmasters.com/books/front-end-handbook/2019/assets/images/how-the-internet-works.jpg)
+
+*************************************************************************
 
 ## HTML 💥
 
@@ -21,7 +32,7 @@ Below you will find a list of resources that I have used with links.
 
 *************************************************************************
 
-## JAVASCRIPT 💥
+## Javascript 💥
 
 ### E-Books 📚
 
