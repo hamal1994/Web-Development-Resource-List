@@ -45,3 +45,9 @@ Below you will find a list of resources that I have used with links.
 
 * [Essential Image Optimisation](https://images.guide/)
 * [Tiny Png](https://tinypng.com/)
+
+*************************************************************************
+
+## YouTube and Podcasts 💥
+
+* [Syntax](https://syntax.fm/)
