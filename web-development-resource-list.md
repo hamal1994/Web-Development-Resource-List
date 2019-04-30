@@ -1,4 +1,5 @@
 # Learning Resources and useful links
+![Code](https://images.unsplash.com/photo-1533709752211-118fcaf03312?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80)
 
 Below you will find a list of resources that I have used with links.
 
@@ -25,4 +26,3 @@ Below you will find a list of resources that I have used with links.
 * [Eloquent Javascript](http://eloquentjavascript.net/)
 * [You don't know JS series](https://github.com/getify/You-Dont-Know-JS)
 * [JS Jargon](http://jargon.js.org/)
-
