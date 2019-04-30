@@ -8,7 +8,10 @@ Below you will find a list of resources that I have used with links.
 
 * [Introduction to HTML](https://scrimba.com/g/ghtml)
 
+![CSS 3 LOGO](https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png)
+
 ## CSS
+
 * [CSS Animations](http://animista.net/)
 * [Visual CSS Grid Cheat Sheet](http://grid.malven.co/)
 * [Peek at other site styles](http://stylifyme.com/)
