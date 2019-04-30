@@ -38,3 +38,10 @@ Below you will find a list of resources that I have used with links.
 
 * [Atom](https://atom.io/)
 * [VS Code](https://code.visualstudio.com/)
+
+*************************************************************************
+
+## Optimisation Tips and Tools 💥
+
+* [Essential Image Optimisation](https://images.guide/)
+* [Tiny Png](https://tinypng.com/)
