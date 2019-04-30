@@ -2,5 +2,5 @@
 
 Below you will find a list of resources that I have used with links.
 
-#HTML
+# HTML
 * [Introduction to HTML](https://scrimba.com/g/ghtml)
