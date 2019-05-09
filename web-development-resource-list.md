@@ -42,6 +42,8 @@ Image source: `https://www.helloitsliam.com/2014/12/20/how-the-internet-works-in
 
 ## Javascript 💥
 
+<!-- [An Introduction to JavaScript]() -->
+
 ### E-Books 📚
 
 * [Eloquent Javascript](http://eloquentjavascript.net/)
