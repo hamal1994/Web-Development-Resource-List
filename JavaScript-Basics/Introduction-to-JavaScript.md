@@ -48,6 +48,15 @@ The engine applies optimizations at each step of the process. It even watches th
 
 *************************************************************************
 
+## What makes JavaScript unique?
+
+There are at least three great things about JavaScript:
+
+* Full integration with HTML/CSS.
+* Simple things are done simply.
+* Support by all major browsers and enabled by default.
+
+*************************************************************************
 
 ## Author
 
