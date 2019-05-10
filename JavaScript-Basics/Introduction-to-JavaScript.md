@@ -33,7 +33,21 @@ Different engines have different “codenames”. For example:
 * …There are other codenames like “Trident” and “Chakra” for different versions of IE, “ChakraCore” for Microsoft Edge, “Nitro” and “SquirrelFish” for Safari, etc.
 The terms above are good to remember because they are used in developer articles on the internet. We’ll use them too. For instance, if “a feature X is supported by V8”, then it probably works in Chrome and Opera.
 
+The terms above are good to remember because they are used in developer articles on the internet. We’ll use them too. For instance, if “a feature X is supported by V8”, then it probably works in Chrome and Opera.
+
 *************************************************************************
+
+## How do engines work? ℹ️
+
+Engines are complicated. But the basics are easy.
+
+* The engine (embedded if it’s a browser) reads (“parses”) the script.
+* Then it converts (“compiles”) the script to the machine language.
+* And then the machine code runs, pretty fast.
+The engine applies optimizations at each step of the process. It even watches the compiled script as it runs, analyzes the data that flows through it, and applies optimizations to the machine code based on that knowledge. When it’s done, scripts run quite fast.
+
+*************************************************************************
+
 
 ## Author
 
