@@ -42,7 +42,7 @@ Image source: `https://www.helloitsliam.com/2014/12/20/how-the-internet-works-in
 
 ## Javascript 💥
 
-[An Introduction to JavaScript](JavaScript-Basics/Introduction-to-JavaScript.md)
+[An Introduction to JavaScript](JavaScript-Basics/1.1-Introduction-to-JavaScript.md)
 
 ### E-Books 📚
 
