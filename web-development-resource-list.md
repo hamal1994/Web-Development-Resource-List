@@ -64,6 +64,11 @@ Image source: `https://www.helloitsliam.com/2014/12/20/how-the-internet-works-in
 * [Atom](https://atom.io/)
 * [VS Code](https://code.visualstudio.com/)
 
+## Online Text Editors
+
+* [CodePen [free to £]](https://codepen.io/)
+* [jsfiddle](https://jsfiddle.net/)
+
 *************************************************************************
 
 ## Optimisation Tips and Tools 💥
