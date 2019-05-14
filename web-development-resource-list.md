@@ -53,6 +53,10 @@ Image source: `https://www.helloitsliam.com/2014/12/20/how-the-internet-works-in
 
 * [JS Jargon](http://jargon.js.org/)
 
+### React Library
+
+* [React Basics Tutorial](https://scrimba.com/g/glearnreact)
+
 *************************************************************************
 
 ## Text Editors 💥
