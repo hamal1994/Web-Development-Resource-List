@@ -36,7 +36,7 @@ Image source: `https://www.helloitsliam.com/2014/12/20/how-the-internet-works-in
 * [Peek at other site styles](http://stylifyme.com/)
 * [CSS Plant](http://stylifyme.com/)
 * [Material Colours](https://www.materialui.co/colors)
-* [CSS Path Clip](https://bennettfeely.com/clippy/)
+* [CSS Clip Path](https://bennettfeely.com/clippy/)
 
 *************************************************************************
 
