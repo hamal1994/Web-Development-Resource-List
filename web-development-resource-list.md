@@ -62,6 +62,10 @@ Image source: `https://www.helloitsliam.com/2014/12/20/how-the-internet-works-in
 * [React Basics Tutorial](https://scrimba.com/g/glearnreact)
 * [React | freeCodeCamp](https://learn.freecodecamp.org/front-end-libraries/react)
 
+### THREE.JS Library
+
+* [CJ Gammon YouTube](https://www.youtube.com/channel/UCFbkyvvsEQn7AmQO6_G5J-A)
+
 *************************************************************************
 
 ## Text Editors 💥
