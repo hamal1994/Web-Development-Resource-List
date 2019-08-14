@@ -31,23 +31,26 @@ Image source: `https://www.helloitsliam.com/2014/12/20/how-the-internet-works-in
 
 ## CSS 💥
 
-| Resources                                                                                                                     | Cost |
-| ----------------------------------------------------------------------------------------------------------------------------- |:----:|
-| [Understanding the CSS Box Model](https://webdesign.tutsplus.com/courses/understanding-the-css-box-model)                     | Free |
-| [CSS Animations](http://animista.net/)                                                                                        | Free |
-| [Visual CSS Grid Cheat Sheet](http://grid.malven.co/)                                                                         | Free |
-| [Peek at other site styles](http://stylifyme.com/)                                                                            | Free |
-| [Material Colours](https://www.materialui.co/colors)                                                                          | Free |
-| [CSS Plant](http://stylifyme.com/)                                                                                            | Free |
-| [CSS Clip Path](https://bennettfeely.com/clippy/)                                                                             | Free |
+| Resources                                                                                                 | Cost |
+| --------------------------------------------------------------------------------------------------------- |:----:|
+| [Understanding the CSS Box Model](https://webdesign.tutsplus.com/courses/understanding-the-css-box-model) | Free |
+| [CSS Animations](http://animista.net/)                                                                    | Free |
+| [Visual CSS Grid Cheat Sheet](http://grid.malven.co/)                                                     | Free |
+| [Peek at other site styles](http://stylifyme.com/)                                                        | Free |
+| [Material Colours](https://www.materialui.co/colors)                                                      | Free |
+| [CSS Plant](http://stylifyme.com/)                                                                        | Free |
+| [CSS Clip Path](https://bennettfeely.com/clippy/)                                                         | Free |
 
 *************************************************************************
 
 ## Javascript 💥
 
-[An Introduction to JavaScript](JavaScript-Basics/1.1-Introduction-to-JavaScript.md)
+| Resources                                                                            | Cost |
+| ------------------------------------------------------------------------------------ |:----:|
+| [An Introduction to JavaScript](JavaScript-Basics/1.1-Introduction-to-JavaScript.md) | Free |
 
 ### E-Books 📚
+
 
 * [Eloquent Javascript](http://eloquentjavascript.net/)
 * [You don't know JS series](https://github.com/getify/You-Dont-Know-JS)
