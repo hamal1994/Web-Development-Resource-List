@@ -13,8 +13,10 @@ Below you will find a list of resources that I have used with links.
 ![How the internet works](https://frontendmasters.com/books/front-end-handbook/2019/assets/images/how-the-internet-works.jpg)
 Image source: `https://www.helloitsliam.com/2014/12/20/how-the-internet-works-infographic/`
 
-* [What is the Internet](https://www.youtube.com/watch?v=Dxcc6ycZ73M) 👀
-* [Internet Fundamentals](http://internetfundamentals.com/) 👀
+| Resources                                                                | Media         |
+| ------------------------------------------------------------------------ |:-------------:|
+| [What is the Internet](https://www.youtube.com/watch?v=Dxcc6ycZ73M)      | 👀            |
+| [Internet Fundamentals](http://internetfundamentals.com/)                | 👀            |
 
 *************************************************************************
 
