@@ -13,33 +13,33 @@ Below you will find a list of resources that I have used with links.
 ![How the internet works](https://frontendmasters.com/books/front-end-handbook/2019/assets/images/how-the-internet-works.jpg)
 Image source: `https://www.helloitsliam.com/2014/12/20/how-the-internet-works-infographic/`
 
-| Resources                                                                | Media         |
-| ------------------------------------------------------------------------ |:-------------:|
-| [What is the Internet](https://www.youtube.com/watch?v=Dxcc6ycZ73M)      | 👀            |
-| [Internet Fundamentals](http://internetfundamentals.com/)                | 👀            |
+| Resources                                                                | Cost |
+| ------------------------------------------------------------------------ |:----:|
+| [What is the Internet](https://www.youtube.com/watch?v=Dxcc6ycZ73M)      | Free |
+| [Internet Fundamentals](http://internetfundamentals.com/)                | Free |
 
 *************************************************************************
 
 ## HTML 💥
 
-| Resources                                                                                                                     | Media         |
-| ----------------------------------------------------------------------------------------------------------------------------- |:-------------:|
-| [Introduction to HTML](https://scrimba.com/g/ghtml)                                                                           | 👀            |
-| [Semantic HTML: How to Structure Web Pages](https://webdesign.tutsplus.com/courses/semantic-html-how-to-structure-web-pages)  | 👀            |
+| Resources                                                                                                                     | Cost |
+| ----------------------------------------------------------------------------------------------------------------------------- |:----:|
+| [Introduction to HTML](https://scrimba.com/g/ghtml)                                                                           | Free |
+| [Semantic HTML: How to Structure Web Pages](https://webdesign.tutsplus.com/courses/semantic-html-how-to-structure-web-pages)  | Free |
 
 *************************************************************************
 
 ## CSS 💥
 
-| Resources                                                                                                                     | Media         |
-| ----------------------------------------------------------------------------------------------------------------------------- |:-------------:|
-| [Understanding the CSS Box Model](https://webdesign.tutsplus.com/courses/understanding-the-css-box-model)                     | 👀            |
-| [CSS Animations](http://animista.net/)                                                                                        | 👀            |
-| [Visual CSS Grid Cheat Sheet](http://grid.malven.co/)                                                                         | 👀            |
-| [Peek at other site styles](http://stylifyme.com/)                                                                            | 👀            |
-| [Material Colours](https://www.materialui.co/colors)                                                                          | 👀            |
-| [CSS Plant](http://stylifyme.com/)                                                                                            | 👀            |
-| [CSS Clip Path](https://bennettfeely.com/clippy/)                                                                             | 👀            |
+| Resources                                                                                                                     | Cost |
+| ----------------------------------------------------------------------------------------------------------------------------- |:----:|
+| [Understanding the CSS Box Model](https://webdesign.tutsplus.com/courses/understanding-the-css-box-model)                     | Free |
+| [CSS Animations](http://animista.net/)                                                                                        | Free |
+| [Visual CSS Grid Cheat Sheet](http://grid.malven.co/)                                                                         | Free |
+| [Peek at other site styles](http://stylifyme.com/)                                                                            | Free |
+| [Material Colours](https://www.materialui.co/colors)                                                                          | Free |
+| [CSS Plant](http://stylifyme.com/)                                                                                            | Free |
+| [CSS Clip Path](https://bennettfeely.com/clippy/)                                                                             | Free |
 
 *************************************************************************
 
