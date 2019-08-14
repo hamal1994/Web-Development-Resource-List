@@ -31,14 +31,15 @@ Image source: `https://www.helloitsliam.com/2014/12/20/how-the-internet-works-in
 
 ## CSS 💥
 
-* [Understanding the CSS Box Model](https://webdesign.tutsplus.com/courses/understanding-the-css-box-model)  👀
-
-* [CSS Animations](http://animista.net/)
-* [Visual CSS Grid Cheat Sheet](http://grid.malven.co/)
-* [Peek at other site styles](http://stylifyme.com/)
-* [CSS Plant](http://stylifyme.com/)
-* [Material Colours](https://www.materialui.co/colors)
-* [CSS Clip Path](https://bennettfeely.com/clippy/)
+| Resources                                                                                                                     | Media         |
+| ----------------------------------------------------------------------------------------------------------------------------- |:-------------:|
+| [Understanding the CSS Box Model](https://webdesign.tutsplus.com/courses/understanding-the-css-box-model)                     | 👀            |
+| [CSS Animations](http://animista.net/)                                                                                        | 👀            |
+| [Visual CSS Grid Cheat Sheet](http://grid.malven.co/)                                                                         | 👀            |
+| [Peek at other site styles](http://stylifyme.com/)                                                                            | 👀            |
+| [Material Colours](https://www.materialui.co/colors)                                                                          | 👀            |
+| [CSS Plant](http://stylifyme.com/)                                                                                            | 👀            |
+| [CSS Clip Path](https://bennettfeely.com/clippy/)                                                                             | 👀            |
 
 *************************************************************************
 
