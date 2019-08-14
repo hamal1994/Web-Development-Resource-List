@@ -51,9 +51,10 @@ Image source: `https://www.helloitsliam.com/2014/12/20/how-the-internet-works-in
 
 ### E-Books 📚
 
-
-* [Eloquent Javascript](http://eloquentjavascript.net/)
-* [You don't know JS series](https://github.com/getify/You-Dont-Know-JS)
+| Resources                                                              | Cost |
+| ---------------------------------------------------------------------- |:----:|
+| [Eloquent Javascript](http://eloquentjavascript.net/)                  | Free |
+| [You don't know JS series](https://github.com/getify/You-Dont-Know-JS) | Free |
 
 ### Terminology
 
