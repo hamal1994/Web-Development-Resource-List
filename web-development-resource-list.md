@@ -48,6 +48,7 @@ Image source: `https://www.helloitsliam.com/2014/12/20/how-the-internet-works-in
 | Resources                                                                            | Cost |
 | ------------------------------------------------------------------------------------ |:----:|
 | [An Introduction to JavaScript](JavaScript-Basics/1.1-Introduction-to-JavaScript.md) | Free |
+| [Web Dev Simplied](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw)         | Free |
 
 ### E-Books 📚
 
