@@ -99,7 +99,11 @@ Image source: `https://www.helloitsliam.com/2014/12/20/how-the-internet-works-in
 
 ## YouTube and Podcasts 💥
 
-* [Syntax](https://syntax.fm/)
+| Resources                                         | Description                                                  | Type    |
+|---------------------------------------------------|-------------------------------------------------------------|---------|
+|[Syntax](https://syntax.fm/)                       | A weekly podcast about web development                      | Podcast |
+|[JavaScript Jabber](https://devchat.tv/js-jabber/) | A weekly podcast discussing the superb language JavaScript. | Podcast |
+|[Shoptalk](https://shoptalkshow.com)               | A podcast about front end web design, development and UX.   | Podcast |
 
 *************************************************************************
 
