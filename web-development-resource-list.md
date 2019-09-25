@@ -105,11 +105,13 @@ Image source: `https://www.helloitsliam.com/2014/12/20/how-the-internet-works-in
 
 ## Blogs 💥
 
-| Resources                                 | Description | Cost |
-|-------------------------------------------|-------------|------|
+| Resources                                 | Description                                                                                  | Cost |
+|-------------------------------------------|----------------------------------------------------------------------------------------------|------|
 |[Treehouse](https://blog.teamtreehouse.com)| The Treehouse blog provides valuable content on web development, web design and startup tips.| Free |
 |[.net Magazine](https://www.creativebloq.com/net-magazine)| .net is the world’s best-selling magazine for web designers and developers.   | Free |
 |[CSS-Tricks](https://css-tricks.com)| A web design community.                                                                             | Free |
 |[Smashing Magazine](https://www.smashingmagazine.com/)| An online magazine for professional Web designers and developers.                 | Free |
+|[HTML5 Doctor](http://html5doctor.com/)| A blog to help you learn more about HTML5.                                                       | Free |
+|[CSS Wizardry](https://csswizardry.com)| A specialised blog in writing and scaling CSS for large apps and websites.                       | Free |
 
 *************************************************************************
