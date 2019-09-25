@@ -100,3 +100,16 @@ Image source: `https://www.helloitsliam.com/2014/12/20/how-the-internet-works-in
 ## YouTube and Podcasts 💥
 
 * [Syntax](https://syntax.fm/)
+
+*************************************************************************
+
+## Blogs 💥
+
+| Resources                                 | Description | Cost |
+|-------------------------------------------|-------------|------|
+|[Treehouse](https://blog.teamtreehouse.com)| The Treehouse blog provides valuable content on web development, web design and startup tips.| Free |
+|[.net Magazine](https://www.creativebloq.com/net-magazine)| .net is the world’s best-selling magazine for web designers and developers.   | Free |
+|[CSS-Tricks](https://css-tricks.com)| A web design community.                                                                             | Free |
+|[Smashing Magazine](https://www.smashingmagazine.com/)| An online magazine for professional Web designers and developers.                 | Free |
+
+*************************************************************************
