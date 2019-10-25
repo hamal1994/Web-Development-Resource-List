@@ -6,11 +6,11 @@ The web is constantly changing and as a web developer you have to be able to ada
 
 ## Internet/Web 💥
 
-| Resources                                                                                                            | Cost |
-| -------------------------------------------------------------------------------------------------------------------- |:----:|
-| [How the internet works](https://www.helloitsliam.com/2014/12/20/how-the-internet-works-infographic/)                | Free |
-| [What is the Internet](https://www.youtube.com/watch?v=Dxcc6ycZ73M)                                                  | Free |
-| [Internet Fundamentals](http://internetfundamentals.com/)                                                            | Free |
+| Resources                                                                                                            | Type              | Cost |
+| -------------------------------------------------------------------------------------------------------------------- |:-----------------:|:----:|
+| [How the internet works](https://www.helloitsliam.com/2014/12/20/how-the-internet-works-infographic/)                | Diagram        📷 | Free |
+| [What is the Internet](https://www.youtube.com/watch?v=Dxcc6ycZ73M)                                                  | YouTube Video  📹 | Free |
+| [Internet Fundamentals](http://internetfundamentals.com/)                                                            | Video Course   📹 | Free |
 
 *************************************************************************
 
