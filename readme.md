@@ -1,11 +1,10 @@
 # Web Development Resource List
 
 📱 💻 🖥️
-```
-The web is constantly changing and as a web developer you have to be able to adapt to the constant changes. 
-Here is a huge list of web development resources and tools to help you as a web developer to stay up-to-date, 
+
+The web is constantly changing and as a web developer you have to be able to adapt to the constant changes.
+Here is a huge list of web development resources and tools to help you as a web developer to stay up-to-date,
 learn new things, be more productive, and perhaps also help you become better at what you do.
-```
 
 ## Internet/Web 🌐
 
