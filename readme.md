@@ -27,15 +27,15 @@ learn new things, be more productive, and perhaps also help you become better at
 
 ## CSS 💥
 
-| Resources                                                                                                 | Type | Cost |
-| --------------------------------------------------------------------------------------------------------- |------|:----:|
-| [Understanding the CSS Box Model](https://webdesign.tutsplus.com/courses/understanding-the-css-box-model) | 📹   | 🆓 |
-| [CSS Animations](http://animista.net/)                                                                    | 🌐   | 🆓 |
-| [Visual CSS Grid Cheat Sheet](http://grid.malven.co/)                                                     | 🌐   | 🆓 |
-| [Peek at other site styles](http://stylifyme.com/)                                                        | 🌐   | 🆓 |
-| [Material Colours](https://www.materialui.co/colors)                                                      | 🌐   | 🆓 |
-| [CSS Plant](http://www.cssplant.com/)                                                                     | 🌐   | 🆓 |
-| [CSS Clip Path](https://bennettfeely.com/clippy/)                                                         | 🌐   | 🆓 |
+| Resources                                                                                                 | Type / Cost |
+| --------------------------------------------------------------------------------------------------------- |:-----------:|
+| [Understanding the CSS Box Model](https://webdesign.tutsplus.com/courses/understanding-the-css-box-model) | 📹 🆓       |
+| [CSS Animations](http://animista.net/)                                                                    | 🌐 🆓       |
+| [Visual CSS Grid Cheat Sheet](http://grid.malven.co/)                                                     | 🌐 🆓       |
+| [Peek at other site styles](http://stylifyme.com/)                                                        | 🌐 🆓       |
+| [Material Colours](https://www.materialui.co/colors)                                                      | 🌐 🆓       |
+| [CSS Plant](http://www.cssplant.com/)                                                                     | 🌐 🆓       |
+| [CSS Clip Path](https://bennettfeely.com/clippy/)                                                         | 🌐 🆓       |
 
 ---
 
