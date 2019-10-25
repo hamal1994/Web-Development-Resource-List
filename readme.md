@@ -1,8 +1,11 @@
 # Web Development Resource List
 
 📱 💻 🖥️
-
-The web is constantly changing and as a web developer you have to be able to adapt to the constant changes. Here is a huge list of web development resources and tools to help you as a web developer to stay up-to-date, learn new things, be more productive, and perhaps also help you become better at what you do.
+```
+The web is constantly changing and as a web developer you have to be able to adapt to the constant changes. 
+Here is a huge list of web development resources and tools to help you as a web developer to stay up-to-date, 
+learn new things, be more productive, and perhaps also help you become better at what you do.
+```
 
 ## Internet/Web 🌐
 
@@ -90,7 +93,7 @@ The web is constantly changing and as a web developer you have to be able to ada
 | Custom            | ☝️                       | 👊                                        | ☝️                                       | 👊                             | ☝️                          |
 | Text Editor Pages | [Atom](https://atom.io/) | [VS Code](https://code.visualstudio.com/) | [Sublime](https://www.sublimetext.com/3) | [Brackets](http://brackets.io/) | [Vim](https://www.vim.org/) |
 
- ## Online Text Editors
+## Online Text Editors
 
 | Online Text Editors                      |
 |:----------------------------------------:|
