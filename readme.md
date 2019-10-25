@@ -25,31 +25,31 @@ The web is constantly changing and as a web developer you have to be able to ada
 
 ## CSS 💥
 
-| Resources                                                                                                 | Cost |
-| --------------------------------------------------------------------------------------------------------- |:----:|
-| [Understanding the CSS Box Model](https://webdesign.tutsplus.com/courses/understanding-the-css-box-model) | Free |
-| [CSS Animations](http://animista.net/)                                                                    | Free |
-| [Visual CSS Grid Cheat Sheet](http://grid.malven.co/)                                                     | Free |
-| [Peek at other site styles](http://stylifyme.com/)                                                        | Free |
-| [Material Colours](https://www.materialui.co/colors)                                                      | Free |
-| [CSS Plant](http://stylifyme.com/)                                                                        | Free |
-| [CSS Clip Path](https://bennettfeely.com/clippy/)                                                         | Free |
+| Resources                                                                                                 | Type | Cost |
+| --------------------------------------------------------------------------------------------------------- |      |:----:|
+| [Understanding the CSS Box Model](https://webdesign.tutsplus.com/courses/understanding-the-css-box-model) |      | Free |
+| [CSS Animations](http://animista.net/)                                                                    |      | Free |
+| [Visual CSS Grid Cheat Sheet](http://grid.malven.co/)                                                     |      | Free |
+| [Peek at other site styles](http://stylifyme.com/)                                                        |      | Free |
+| [Material Colours](https://www.materialui.co/colors)                                                      |      | Free |
+| [CSS Plant](http://stylifyme.com/)                                                                        |      | Free |
+| [CSS Clip Path](https://bennettfeely.com/clippy/)                                                         |      | Free |
 
 *************************************************************************
 
 ## Javascript 💥
 
-| Resources                                                                            | Cost |
-| ------------------------------------------------------------------------------------ |:----:|
-| [An Introduction to JavaScript](JavaScript-Basics/1.1-Introduction-to-JavaScript.md) | Free |
-| [Web Dev Simplied](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw)         | Free |
+| Resources                                                                            | Type | Cost |
+| ------------------------------------------------------------------------------------ |------|:----:|
+| [An Introduction to JavaScript](JavaScript-Basics/1.1-Introduction-to-JavaScript.md) |      | Free |
+| [Web Dev Simplied](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw)         |      | Free |
 
 ### E-Books 📚
 
-| Resources                                                              | Cost |
-| ---------------------------------------------------------------------- |:----:|
-| [Eloquent Javascript](http://eloquentjavascript.net/)                  | Free |
-| [You don't know JS series](https://github.com/getify/You-Dont-Know-JS) | Free |
+| Resources                                                              | Type | Cost |
+| ---------------------------------------------------------------------- |------|:----:|
+| [Eloquent Javascript](http://eloquentjavascript.net/)                  |      | Free |
+| [You don't know JS series](https://github.com/getify/You-Dont-Know-JS) |      | Free |
 
 ### Terminology
 
@@ -93,23 +93,23 @@ The web is constantly changing and as a web developer you have to be able to ada
 
 ## YouTube and Podcasts 💥
 
-| Resources                                         | Description                                                  | Type    |
-|---------------------------------------------------|-------------------------------------------------------------|---------|
-|[Syntax](https://syntax.fm/)                       | A weekly podcast about web development                      | Podcast |
-|[JavaScript Jabber](https://devchat.tv/js-jabber/) | A weekly podcast discussing the superb language JavaScript. | Podcast |
-|[Shoptalk](https://shoptalkshow.com)               | A podcast about front end web design, development and UX.   | Podcast |
+| Resources                                         | Description                                                 | Type    | Cost |
+|---------------------------------------------------|-------------------------------------------------------------|---------|------|
+|[Syntax](https://syntax.fm/)                       | A weekly podcast about web development                      | Podcast |      |
+|[JavaScript Jabber](https://devchat.tv/js-jabber/) | A weekly podcast discussing the superb language JavaScript. | Podcast |      |
+|[Shoptalk](https://shoptalkshow.com)               | A podcast about front end web design, development and UX.   | Podcast |      |
 
 *************************************************************************
 
 ## Blogs 💥
 
-| Resources                                 | Description                                                                                  | Cost |
-|-------------------------------------------|----------------------------------------------------------------------------------------------|------|
-|[Treehouse](https://blog.teamtreehouse.com)| The Treehouse blog provides valuable content on web development, web design and startup tips.| Free |
-|[.net Magazine](https://www.creativebloq.com/net-magazine)| .net is the world’s best-selling magazine for web designers and developers.   | Free |
-|[CSS-Tricks](https://css-tricks.com)| A web design community.                                                                             | Free |
-|[Smashing Magazine](https://www.smashingmagazine.com/)| An online magazine for professional Web designers and developers.                 | Free |
-|[HTML5 Doctor](http://html5doctor.com/)| A blog to help you learn more about HTML5.                                                       | Free |
-|[CSS Wizardry](https://csswizardry.com)| A specialised blog in writing and scaling CSS for large apps and websites.                       | Free |
+| Resources                                 | Description                                                                                  | Type | Cost |
+|-------------------------------------------|----------------------------------------------------------------------------------------------|------|------|
+|[Treehouse](https://blog.teamtreehouse.com)| The Treehouse blog provides valuable content on web development, web design and startup tips.|      | Free |
+|[.net Magazine](https://www.creativebloq.com/net-magazine)| .net is the world’s best-selling magazine for web designers and developers.   |      | Free |
+|[CSS-Tricks](https://css-tricks.com)| A web design community.                                                                             |      | Free |
+|[Smashing Magazine](https://www.smashingmagazine.com/)| An online magazine for professional Web designers and developers.                 |      | Free |
+|[HTML5 Doctor](http://html5doctor.com/)| A blog to help you learn more about HTML5.                                                       |      | Free |
+|[CSS Wizardry](https://csswizardry.com)| A specialised blog in writing and scaling CSS for large apps and websites.                       |      | Free |
 
 *************************************************************************
