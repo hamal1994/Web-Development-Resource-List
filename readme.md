@@ -26,7 +26,7 @@ The web is constantly changing and as a web developer you have to be able to ada
 ## CSS 💥
 
 | Resources                                                                                                 | Type | Cost |
-| --------------------------------------------------------------------------------------------------------- |      |:----:|
+| --------------------------------------------------------------------------------------------------------- |------|:----:|
 | [Understanding the CSS Box Model](https://webdesign.tutsplus.com/courses/understanding-the-css-box-model) |      | Free |
 | [CSS Animations](http://animista.net/)                                                                    |      | Free |
 | [Visual CSS Grid Cheat Sheet](http://grid.malven.co/)                                                     |      | Free |
