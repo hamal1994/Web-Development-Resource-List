@@ -10,9 +10,9 @@ learn new things, be more productive, and perhaps also help you become better at
 
 | Resources                                                                                              | Type | Cost |
 | :------------------------------------------------------------------------------------------------------|:-----|:----:|
-| [How the internet works](https://www.helloitsliam.com/2014/12/20/how-the-internet-works-infographic/)  | 📷   | Free |
-| [What is the Internet](https://www.youtube.com/watch?v=Dxcc6ycZ73M)                                    | 📹   | Free |
-| [Internet Fundamentals](http://internetfundamentals.com/)                                              | 📹   | Free |
+| [How the internet works](https://www.helloitsliam.com/2014/12/20/how-the-internet-works-infographic/)  | 📷   | ```Free``` |
+| [What is the Internet](https://www.youtube.com/watch?v=Dxcc6ycZ73M)                                    | 📹   | ```Free``` |
+| [Internet Fundamentals](http://internetfundamentals.com/)                                              | 📹   | ```Free``` |
 
 ---
 
@@ -29,13 +29,13 @@ learn new things, be more productive, and perhaps also help you become better at
 
 | Resources                                                                                                 | Type | Cost |
 | --------------------------------------------------------------------------------------------------------- |------|:----:|
-| [Understanding the CSS Box Model](https://webdesign.tutsplus.com/courses/understanding-the-css-box-model) | 📹   | Free |
-| [CSS Animations](http://animista.net/)                                                                    | 🌐   | Free |
-| [Visual CSS Grid Cheat Sheet](http://grid.malven.co/)                                                     | 🌐   | Free |
-| [Peek at other site styles](http://stylifyme.com/)                                                        | 🌐   | Free |
-| [Material Colours](https://www.materialui.co/colors)                                                      | 🌐   | Free |
-| [CSS Plant](http://www.cssplant.com/)                                                                     | 🌐   | Free |
-| [CSS Clip Path](https://bennettfeely.com/clippy/)                                                         | 🌐   | Free |
+| [Understanding the CSS Box Model](https://webdesign.tutsplus.com/courses/understanding-the-css-box-model) | 📹   | ```Free``` |
+| [CSS Animations](http://animista.net/)                                                                    | 🌐   | ```Free``` |
+| [Visual CSS Grid Cheat Sheet](http://grid.malven.co/)                                                     | 🌐   | ```Free``` |
+| [Peek at other site styles](http://stylifyme.com/)                                                        | 🌐   | ```Free``` |
+| [Material Colours](https://www.materialui.co/colors)                                                      | 🌐   | ```Free``` |
+| [CSS Plant](http://www.cssplant.com/)                                                                     | 🌐   | ```Free``` |
+| [CSS Clip Path](https://bennettfeely.com/clippy/)                                                         | 🌐   | ```Free``` |
 
 ---
 
@@ -43,20 +43,20 @@ learn new things, be more productive, and perhaps also help you become better at
 
 | Resources                                                                            | Type | Cost |
 | ------------------------------------------------------------------------------------ |------|:----:|
-| [Web Dev Simplied](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw)         |  📹  | Free |
-| [freeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)             |  📹  | Free |
-| [Traversy Media](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)           |  📹  | Free |
-| [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)            |  📹  | Free |
-| [fun fun function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)         |  📹  | Free |
-| [JSConf](https://www.youtube.com/channel/UCzoVCacndDCfGDf41P-z0iA)                   |  📹  | Free |
+| [Web Dev Simplied](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw)         |  📹  | ```Free``` |
+| [freeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)             |  📹  | ```Free``` |
+| [Traversy Media](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)           |  📹  | ```Free``` |
+| [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)            |  📹  | ```Free``` |
+| [fun fun function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)         |  📹  | ```Free``` |
+| [JSConf](https://www.youtube.com/channel/UCzoVCacndDCfGDf41P-z0iA)                   |  📹  | ```Free``` |
 
 ### E-Books 📚
 
 | Resources                                                              | Type | Cost |
 | ---------------------------------------------------------------------- |------|:----:|
-| [Eloquent Javascript](http://eloquentjavascript.net/)                  | 📚   | Free |
-| [You don't know JS series](https://github.com/getify/You-Dont-Know-JS) | 📚   | Free |
-| [You don't know JS series](https://github.com/getify/You-Dont-Know-JS) | 📚   | Free |
+| [Eloquent Javascript](http://eloquentjavascript.net/)                  | 📚   | ```Free``` |
+| [You don't know JS series](https://github.com/getify/You-Dont-Know-JS) | 📚   | ```Free``` |
+| [You don't know JS series](https://github.com/getify/You-Dont-Know-JS) | 📚   | ```Free``` |
 
 ### Terminology
 
