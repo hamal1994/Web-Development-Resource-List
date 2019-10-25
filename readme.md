@@ -81,7 +81,7 @@ learn new things, be more productive, and perhaps also help you become better at
 
 ---
 
-## Text Editors 💥
+## Text Editors 📄
 
 | Text Editors      | Atom                     | VS Code                                   | Sublime                                   | Brackets                       | Vim                         |
 |-------------------|--------------------------|-------------------------------------------|-------------------------------------------|--------------------------------|-----------------------------|
@@ -92,23 +92,27 @@ learn new things, be more productive, and perhaps also help you become better at
 | Custom            | ☝️                       | 👊                                        | ☝️                                       | 👊                             | ☝️                          |
 | Text Editor Pages | [Atom](https://atom.io/) | [VS Code](https://code.visualstudio.com/) | [Sublime](https://www.sublimetext.com/3) | [Brackets](http://brackets.io/) | [Vim](https://www.vim.org/) |
 
-## Online Text Editors
+## Online Text Editors 🌐📄
 
-| Online Text Editors               |
-|:---------------------------------:|
-| [CodePen ](https://codepen.io/)   |
-| [jsfiddle](https://jsfiddle.net/) |
+| Online Text Editors | CodePen                         | jsFiddle                          |
+|---------------------|---------------------------------|-----------------------------------|
+| Price               | Free                            | Free                              |
+| Stability           | 👊                              | ☝️                                |
+| Speed               | 👊                              | 👊                                |
+| UI/UX               | ☝️                              | ☝️                                |
+| Custom              | ☝️                              | 👊                                |
+| Text Editor Page    | [CodePen ](https://codepen.io/) | [jsfiddle](https://jsfiddle.net/) |
 
 ---
 
-## Optimisation Tips and Tools 💥
+## Optimisation Tips ℹ️ and Tools 🔨
 
 * [Essential Image Optimisation](https://images.guide/)
 * [Tiny Png](https://tinypng.com/)
 
 ---
 
-## YouTube and Podcasts 💥
+## YouTube 📹 and Podcasts 🎵
 
 | Resources                                         | Description                                                 | Type / Cost |
 |---------------------------------------------------|-------------------------------------------------------------|-------------|
