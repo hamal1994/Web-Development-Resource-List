@@ -20,8 +20,8 @@ learn new things, be more productive, and perhaps also help you become better at
 
 | Resources                                                                                                                     | Type      | Cost  |
 | :---------------------------------------------------------------------------------------------------------------------------- |:----------|:-----:|
-| [Introduction to HTML](https://scrimba.com/g/ghtml)                                                                           | 👨‍💻 👩‍💻 📹 | Free |
-| [Semantic HTML: How to Structure Web Pages](https://webdesign.tutsplus.com/courses/semantic-html-how-to-structure-web-pages)  | 📹       | Free  |
+| [Introduction to HTML](https://scrimba.com/g/ghtml)                                                                           | 👨‍💻 👩‍💻 📹 | ```Free``` |
+| [Semantic HTML: How to Structure Web Pages](https://webdesign.tutsplus.com/courses/semantic-html-how-to-structure-web-pages)  | 📹       | ```Free```  |
 
 ---
 
@@ -112,9 +112,9 @@ learn new things, be more productive, and perhaps also help you become better at
 
 | Resources                                         | Description                                                 | Type    | Cost |
 |---------------------------------------------------|-------------------------------------------------------------|---------|------|
-|[Syntax](https://syntax.fm/)                       | A weekly podcast about web development                      | 🎵      | Free |
-|[JavaScript Jabber](https://devchat.tv/js-jabber/) | A weekly podcast discussing the superb language JavaScript. | 🎵      | Free |
-|[Shoptalk](https://shoptalkshow.com)               | A podcast about front end web design, development and UX.   | 🎵      | Free |
+|[Syntax](https://syntax.fm/)                       | A weekly podcast about web development                      | 🎵      | ```Free``` |
+|[JavaScript Jabber](https://devchat.tv/js-jabber/) | A weekly podcast discussing the superb language JavaScript. | 🎵      | ```Free``` |
+|[Shoptalk](https://shoptalkshow.com)               | A podcast about front end web design, development and UX.   | 🎵      | ```Free``` |
 
 ---
 
@@ -122,9 +122,9 @@ learn new things, be more productive, and perhaps also help you become better at
 
 | Resources                                 | Description                                                                                  | Type | Cost |
 |-------------------------------------------|----------------------------------------------------------------------------------------------|------|------|
-|[Treehouse](https://blog.teamtreehouse.com)| The Treehouse blog provides valuable content on web development, web design and startup tips.| 🌐📜 | Free |
-|[.net Magazine](https://www.creativebloq.com/net-magazine)| .net is the world’s best-selling magazine for web designers and developers.   | 🌐📜 | Free |
-|[CSS-Tricks](https://css-tricks.com)| A web design community.                                                                             | 🌐📜 | Free |
-|[Smashing Magazine](https://www.smashingmagazine.com/)| An online magazine for professional Web designers and developers.                 | 🌐📜 | Free |
-|[HTML5 Doctor](http://html5doctor.com/)| A blog to help you learn more about HTML5.                                                       | 🌐📜 | Free |
-|[CSS Wizardry](https://csswizardry.com)| A specialised blog in writing and scaling CSS for large apps and websites.                       | 🌐📜 | Free |
+|[Treehouse](https://blog.teamtreehouse.com)| The Treehouse blog provides valuable content on web development, web design and startup tips.| 🌐📜 | ```Free``` |
+|[.net Magazine](https://www.creativebloq.com/net-magazine)| .net is the world’s best-selling magazine for web designers and developers.   | 🌐📜 | ```Free``` |
+|[CSS-Tricks](https://css-tricks.com)| A web design community.                                                                             | 🌐📜 | ```Free``` |
+|[Smashing Magazine](https://www.smashingmagazine.com/)| An online magazine for professional Web designers and developers.                 | 🌐📜 | ```Free``` |
+|[HTML5 Doctor](http://html5doctor.com/)| A blog to help you learn more about HTML5.                                                       | 🌐📜 | ```Free``` |
+|[CSS Wizardry](https://csswizardry.com)| A specialised blog in writing and scaling CSS for large apps and websites.                       | 🌐📜 | ```Free``` |
