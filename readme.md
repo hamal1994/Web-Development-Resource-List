@@ -62,7 +62,7 @@ The web is constantly changing and as a web developer you have to be able to ada
 
 ### Objects
 
-* [Looping throught Objects](https://zellwk.com/blog/looping-through-js-objects/)
+* [Looping through Objects](https://zellwk.com/blog/looping-through-js-objects/)
 
 ## Javascript Libraries💥
 
@@ -81,14 +81,20 @@ The web is constantly changing and as a web developer you have to be able to ada
 
 ## Text Editors 💥
 
-|           |[Atom](https://atom.io/)|[VS Code](https://code.visualstudio.com/)|[Sublime](https://www.sublimetext.com/3)|[Brackets](http://brackets.io/)|[Vim](https://www.vim.org/)|
-|-----------|------------------------|-----------------------------------------|----------------------------------------|-------------------------------|---------------------------|
-| Price     | Free                   | Free                                    | £                                      | Free                          | Free                      |
-| Stability | Medium                 | High                                    | High                                   | Medium                        | High                      |
-| Speed     | Medium                 | Medium                                  | High                                   | Medium                        | High                      |
-| UI/UX     | High                   | High                                    | Medium                                 | High                          | Low                       |
-| Custom    | High                   | Medium                                  | High                                   | Medium                        | High                      |
+|           | Atom | VS Code | Sublime | Brackets | Vim  |
+|-----------|------|---------|---------|----------|------|
+| Price     | Free | Free    | £       | Free     | Free |
+| Stability | 👊   | ☝️      | ☝️     | 👊       | ☝️   |
+| Speed     | 👊   | 👊      | ☝️     | 👊       | ☝️   |
+| UI/UX     | ☝️   | ☝️      | 👊     | ☝️       | 👇   |
+| Custom    | ☝️   | 👊      | ☝️     | 👊       | ☝️   |
 
+### Text Editor pages
+[Atom](https://atom.io/)
+[VS Code](https://code.visualstudio.com/)
+[Sublime](https://www.sublimetext.com/3)
+[Brackets](http://brackets.io/)
+[Vim](https://www.vim.org/)
 
 ## Online Text Editors
 
