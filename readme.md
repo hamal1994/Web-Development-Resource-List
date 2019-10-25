@@ -61,10 +61,10 @@ learn new things, be more productive, and perhaps also help you become better at
 ### E-Books 📚
 
 | Resources                                                              | Type / 💷 |
-| ---------------------------------------------------------------------- |------------:|
-| [Eloquent Javascript](http://eloquentjavascript.net/)                  | 📚 🆓       |
-| [You don't know JS series](https://github.com/getify/You-Dont-Know-JS) | 📚 🆓       |
-| [You don't know JS series](https://github.com/getify/You-Dont-Know-JS) | 📚 🆓       |
+| ---------------------------------------------------------------------- |:---------:|
+| [Eloquent Javascript](http://eloquentjavascript.net/)                  | 📚 🆓     |
+| [You don't know JS series](https://github.com/getify/You-Dont-Know-JS) | 📚 🆓     |
+| [You don't know JS series](https://github.com/getify/You-Dont-Know-JS) | 📚 🆓     |
 
 ### Terminology
 
