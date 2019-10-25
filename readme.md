@@ -8,7 +8,7 @@ learn new things, be more productive, and perhaps also help you become better at
 
 ## Internet/Web 🌐
 
-| Resources                                                                                              | Type / Cost |
+| Resources                                                                                              | Type / 💷 |
 | :------------------------------------------------------------------------------------------------------|:-----------:|
 | [How the internet works](https://www.helloitsliam.com/2014/12/20/how-the-internet-works-infographic/)  | 📷 🆓       |
 | [What is the Internet](https://www.youtube.com/watch?v=Dxcc6ycZ73M)                                    | 📹 🆓       |
@@ -18,7 +18,7 @@ learn new things, be more productive, and perhaps also help you become better at
 
 ## HTML 💥
 
-| Resources                                                                                                                     | Type / Cost  |
+| Resources                                                                                                                     | Type / 💷  |
 | :---------------------------------------------------------------------------------------------------------------------------- |:------------:|
 | [Introduction to HTML](https://scrimba.com/g/ghtml)                                                                           | 📹 🆓        |
 | [Semantic HTML: How to Structure Web Pages](https://webdesign.tutsplus.com/courses/semantic-html-how-to-structure-web-pages)  | 📹 🆓        |
@@ -27,7 +27,7 @@ learn new things, be more productive, and perhaps also help you become better at
 
 ## CSS 💥
 
-| Resources                                                                                                 | Type / Cost |
+| Resources                                                                                                 | Type / 💷 |
 | --------------------------------------------------------------------------------------------------------- |:-----------:|
 | [Understanding the CSS Box Model](https://webdesign.tutsplus.com/courses/understanding-the-css-box-model) | 📹 🆓       |
 | [CSS Animations](http://animista.net/)                                                                    | 🌐 🆓       |
@@ -41,7 +41,7 @@ learn new things, be more productive, and perhaps also help you become better at
 
 ## Javascript💥
 
-| Resources                                                                    | Type / Cost |
+| Resources                                                                    | Type / 💷 |
 | -----------------------------------------------------------------------------|:-----------:|
 | [Web Dev Simplied](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw) | 📹 🆓      |
 | [freeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)     | 📹 🆓      |
@@ -52,7 +52,7 @@ learn new things, be more productive, and perhaps also help you become better at
 
 ### E-Books 📚
 
-| Resources                                                              | Type / Cost |
+| Resources                                                              | Type / 💷 |
 | ---------------------------------------------------------------------- |------------:|
 | [Eloquent Javascript](http://eloquentjavascript.net/)                  | 📚 🆓       |
 | [You don't know JS series](https://github.com/getify/You-Dont-Know-JS) | 📚 🆓       |
@@ -85,7 +85,7 @@ learn new things, be more productive, and perhaps also help you become better at
 
 | Text Editors      | Atom                     | VS Code                                   | Sublime                                   | Brackets                       | Vim                         |
 |-------------------|--------------------------|-------------------------------------------|-------------------------------------------|--------------------------------|-----------------------------|
-| Price             | Free                     | Free                                      |  £                                        | Free                           | Free                        |
+| Price             | 🆓                       | 🆓                                        | 💷                                       | 🆓                             | 🆓                          |
 | Stability         | 👊                       | ☝️                                        | ☝️                                       | 👊                             | ☝️                          |
 | Speed             | 👊                       | 👊                                        | ☝️                                       | 👊                             | ☝️                          |
 | UI/UX             | ☝️                       | ☝️                                        | 👊                                       | ☝️                             | 👇                          |
@@ -96,11 +96,11 @@ learn new things, be more productive, and perhaps also help you become better at
 
 | Online Text Editors | CodePen                         | jsFiddle                          |
 |---------------------|---------------------------------|-----------------------------------|
-| Price               | Free                            | Free                              |
+| Price               | 🆓                              | 🆓                                |
 | Stability           | 👊                              | ☝️                                |
 | Speed               | 👊                              | 👊                                |
-| UI/UX               | ☝️                              | ☝️                                |
-| Custom              | ☝️                              | 👊                                |
+| UI/UX               | ☝️                              | 👊                                |
+| Custom              | 👊                              | 👊                                |
 | Text Editor Page    | [CodePen ](https://codepen.io/) | [jsfiddle](https://jsfiddle.net/) |
 
 ---
@@ -114,17 +114,17 @@ learn new things, be more productive, and perhaps also help you become better at
 
 ## YouTube 📹 and Podcasts 🎵
 
-| Resources                                         | Description                                                 | Type / Cost |
-|---------------------------------------------------|-------------------------------------------------------------|-------------|
-|[Syntax](https://syntax.fm/)                       | A weekly podcast about web development                      | 🎵 🆓       |
-|[JavaScript Jabber](https://devchat.tv/js-jabber/) | A weekly podcast discussing the superb language JavaScript. | 🎵 🆓       |
-|[Shoptalk](https://shoptalkshow.com)               | A podcast about front end web design, development and UX.   | 🎵 🆓       |
+| Resources                                         | Description                               | Type / 💷 |
+|---------------------------------------------------|-------------------------------------------|-------------|
+|[Syntax](https://syntax.fm/)                       | Web development                           | 🎵 🆓       |
+|[JavaScript Jabber](https://devchat.tv/js-jabber/) | JavaScript.                               | 🎵 🆓       |
+|[Shoptalk](https://shoptalkshow.com)               | Front end web design, development and UX. | 🎵 🆓       |
 
 ---
 
 ## Blogs 💥
 
-| Resources                                 | Description                                                                                  | Type / Cost |
+| Resources                                 | Description                                                                                  | Type / 💷 |
 |-------------------------------------------|----------------------------------------------------------------------------------------------|-------------|
 |[Treehouse](https://blog.teamtreehouse.com)| The Treehouse blog provides valuable content on web development, web design and startup tips.| 🌐 📜 🆓   |
 |[.net Magazine](https://www.creativebloq.com/net-magazine)| .net is the world’s best-selling magazine for web designers and developers.   | 🌐 📜 🆓   |
