@@ -9,46 +9,54 @@ learn new things, be more productive, and perhaps also help you become better at
 ## Internet/Web 🌐
 
 | Resources                                                                                              | Type / 💷 |
-| :------------------------------------------------------------------------------------------------------|:-----------:|
-| [How the internet works](https://www.helloitsliam.com/2014/12/20/how-the-internet-works-infographic/)  | 📷 🆓       |
-| [What is the Internet](https://www.youtube.com/watch?v=Dxcc6ycZ73M)                                    | 📹 🆓       |
-| [Internet Fundamentals](http://internetfundamentals.com/)                                              | 📹 🆓       |
+| :------------------------------------------------------------------------------------------------------|:---------:|
+| [How the internet works](https://www.helloitsliam.com/2014/12/20/how-the-internet-works-infographic/)  | 📷 🆓     |
+| [What is the Internet](https://www.youtube.com/watch?v=Dxcc6ycZ73M)                                    | 📹 🆓     |
+| [Internet Fundamentals](http://internetfundamentals.com/)                                              | 📹 🆓     |
 
 ---
 
-## HTML 💥
+## HTML 
+```<html></html>```
 
-| Resources                                                                                                                     | Type / 💷  |
-| :---------------------------------------------------------------------------------------------------------------------------- |:------------:|
-| [Introduction to HTML](https://scrimba.com/g/ghtml)                                                                           | 📹 🆓        |
-| [Semantic HTML: How to Structure Web Pages](https://webdesign.tutsplus.com/courses/semantic-html-how-to-structure-web-pages)  | 📹 🆓        |
+| Resources                                                                                                                     | Type / 💷 |
+| :---------------------------------------------------------------------------------------------------------------------------- |:---------:|
+| [Introduction to HTML](https://scrimba.com/g/ghtml)                                                                           | 📹 🆓     |
+| [Semantic HTML: How to Structure Web Pages](https://webdesign.tutsplus.com/courses/semantic-html-how-to-structure-web-pages)  | 📹 🆓     |
 
 ---
 
 ## CSS 💥
 
+```
+  .selector {
+    font-size: 1em;
+    color: #000000;
+  }
+```
+
 | Resources                                                                                                 | Type / 💷 |
-| --------------------------------------------------------------------------------------------------------- |:-----------:|
-| [Understanding the CSS Box Model](https://webdesign.tutsplus.com/courses/understanding-the-css-box-model) | 📹 🆓       |
-| [CSS Animations](http://animista.net/)                                                                    | 🌐 🆓       |
-| [Visual CSS Grid Cheat Sheet](http://grid.malven.co/)                                                     | 🌐 🆓       |
-| [Peek at other site styles](http://stylifyme.com/)                                                        | 🌐 🆓       |
-| [Material Colours](https://www.materialui.co/colors)                                                      | 🌐 🆓       |
-| [CSS Plant](http://www.cssplant.com/)                                                                     | 🌐 🆓       |
-| [CSS Clip Path](https://bennettfeely.com/clippy/)                                                         | 🌐 🆓       |
+| --------------------------------------------------------------------------------------------------------- |:---------:|
+| [Understanding the CSS Box Model](https://webdesign.tutsplus.com/courses/understanding-the-css-box-model) | 📹 🆓     |
+| [CSS Animations](http://animista.net/)                                                                    | 🌐 🆓     |
+| [Visual CSS Grid Cheat Sheet](http://grid.malven.co/)                                                     | 🌐 🆓     |
+| [Peek at other site styles](http://stylifyme.com/)                                                        | 🌐 🆓     |
+| [Material Colours](https://www.materialui.co/colors)                                                      | 🌐 🆓     |
+| [CSS Plant](http://www.cssplant.com/)                                                                     | 🌐 🆓     |
+| [CSS Clip Path](https://bennettfeely.com/clippy/)                                                         | 🌐 🆓     |
 
 ---
 
 ## Javascript💥
 
 | Resources                                                                    | Type / 💷 |
-| -----------------------------------------------------------------------------|:-----------:|
-| [Web Dev Simplied](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw) | 📹 🆓      |
-| [freeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)     | 📹 🆓      |
-| [Traversy Media](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)   | 📹 🆓      |
-| [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)    | 📹 🆓      |
-| [fun fun function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q) | 📹 🆓      |
-| [JSConf](https://www.youtube.com/channel/UCzoVCacndDCfGDf41P-z0iA)           | 📹 🆓      |
+| -----------------------------------------------------------------------------|:---------:|
+| [Web Dev Simplied](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw) | 📹 🆓     |
+| [freeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)     | 📹 🆓     |
+| [Traversy Media](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)   | 📹 🆓     |
+| [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)    | 📹 🆓     |
+| [fun fun function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q) | 📹 🆓     |
+| [JSConf](https://www.youtube.com/channel/UCzoVCacndDCfGDf41P-z0iA)           | 📹 🆓     |
 
 ### E-Books 📚
 
@@ -114,21 +122,21 @@ learn new things, be more productive, and perhaps also help you become better at
 
 ## YouTube 📹 and Podcasts 🎵
 
-| Resources                                         | Description                               | Type / 💷 |
-|---------------------------------------------------|-------------------------------------------|-------------|
-|[Syntax](https://syntax.fm/)                       | Web development                           | 🎵 🆓       |
-|[JavaScript Jabber](https://devchat.tv/js-jabber/) | JavaScript.                               | 🎵 🆓       |
-|[Shoptalk](https://shoptalkshow.com)               | Front end web design, development and UX. | 🎵 🆓       |
+| Resources                                         | Description                               | 💷 |
+|---------------------------------------------------|-------------------------------------------|----|
+|[Syntax](https://syntax.fm/)                       | Web development                           | 🆓 |
+|[JavaScript Jabber](https://devchat.tv/js-jabber/) | JavaScript.                               | 🆓 |
+|[Shoptalk](https://shoptalkshow.com)               | Front end web design, development and UX. | 🆓 |
 
 ---
 
 ## Blogs 💥
 
-| Resources                                 | Description                                                                                  | Type / 💷 |
-|-------------------------------------------|----------------------------------------------------------------------------------------------|-------------|
-|[Treehouse](https://blog.teamtreehouse.com)| The Treehouse blog provides valuable content on web development, web design and startup tips.| 🌐 📜 🆓   |
-|[.net Magazine](https://www.creativebloq.com/net-magazine)| .net is the world’s best-selling magazine for web designers and developers.   | 🌐 📜 🆓   |
-|[CSS-Tricks](https://css-tricks.com)| A web design community.                                                                             | 🌐 📜 🆓   |
-|[Smashing Magazine](https://www.smashingmagazine.com/)| An online magazine for professional Web designers and developers.                 | 🌐 📜 🆓   |
-|[HTML5 Doctor](http://html5doctor.com/)| A blog to help you learn more about HTML5.                                                       | 🌐 📜 🆓   |
-|[CSS Wizardry](https://csswizardry.com)| A specialised blog in writing and scaling CSS for large apps and websites.                       | 🌐 📜 🆓   |
+| Resources                                 | Description                                                                                  | 💷 |
+|-------------------------------------------|----------------------------------------------------------------------------------------------|----|
+|[Treehouse](https://blog.teamtreehouse.com)| The Treehouse blog provides valuable content on web development, web design and startup tips.| 🆓 |
+|[.net Magazine](https://www.creativebloq.com/net-magazine)| .net is the world’s best-selling magazine for web designers and developers.   | 🆓 |
+|[CSS-Tricks](https://css-tricks.com)| A web design community.                                                                             | 🆓 |
+|[Smashing Magazine](https://www.smashingmagazine.com/)| An online magazine for professional Web designers and developers.                 | 🆓 |
+|[HTML5 Doctor](http://html5doctor.com/)| A blog to help you learn more about HTML5.                                                       | 🆓 |
+|[CSS Wizardry](https://csswizardry.com)| A specialised blog in writing and scaling CSS for large apps and websites.                       | 🆓 |
