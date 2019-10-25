@@ -10,9 +10,9 @@ learn new things, be more productive, and perhaps also help you become better at
 
 | Resources                                                                                              | Type | Cost |
 | :------------------------------------------------------------------------------------------------------|:-----|:----:|
-| [How the internet works](https://www.helloitsliam.com/2014/12/20/how-the-internet-works-infographic/)  | 📷   | ```Free``` |
-| [What is the Internet](https://www.youtube.com/watch?v=Dxcc6ycZ73M)                                    | 📹   | ```Free``` |
-| [Internet Fundamentals](http://internetfundamentals.com/)                                              | 📹   | ```Free``` |
+| [How the internet works](https://www.helloitsliam.com/2014/12/20/how-the-internet-works-infographic/)  | 📷   | 🆓 |
+| [What is the Internet](https://www.youtube.com/watch?v=Dxcc6ycZ73M)                                    | 📹   | 🆓 |
+| [Internet Fundamentals](http://internetfundamentals.com/)                                              | 📹   | 🆓 |
 
 ---
 
@@ -20,8 +20,8 @@ learn new things, be more productive, and perhaps also help you become better at
 
 | Resources                                                                                                                     | Type      | Cost  |
 | :---------------------------------------------------------------------------------------------------------------------------- |:----------|:-----:|
-| [Introduction to HTML](https://scrimba.com/g/ghtml)                                                                           | 👨‍💻 👩‍💻 📹 | ```Free``` |
-| [Semantic HTML: How to Structure Web Pages](https://webdesign.tutsplus.com/courses/semantic-html-how-to-structure-web-pages)  | 📹       | ```Free```  |
+| [Introduction to HTML](https://scrimba.com/g/ghtml)                                                                           | 👨‍💻 👩‍💻 📹 | 🆓 |
+| [Semantic HTML: How to Structure Web Pages](https://webdesign.tutsplus.com/courses/semantic-html-how-to-structure-web-pages)  | 📹       | 🆓  |
 
 ---
 
@@ -29,13 +29,13 @@ learn new things, be more productive, and perhaps also help you become better at
 
 | Resources                                                                                                 | Type | Cost |
 | --------------------------------------------------------------------------------------------------------- |------|:----:|
-| [Understanding the CSS Box Model](https://webdesign.tutsplus.com/courses/understanding-the-css-box-model) | 📹   | ```Free``` |
-| [CSS Animations](http://animista.net/)                                                                    | 🌐   | ```Free``` |
-| [Visual CSS Grid Cheat Sheet](http://grid.malven.co/)                                                     | 🌐   | ```Free``` |
-| [Peek at other site styles](http://stylifyme.com/)                                                        | 🌐   | ```Free``` |
-| [Material Colours](https://www.materialui.co/colors)                                                      | 🌐   | ```Free``` |
-| [CSS Plant](http://www.cssplant.com/)                                                                     | 🌐   | ```Free``` |
-| [CSS Clip Path](https://bennettfeely.com/clippy/)                                                         | 🌐   | ```Free``` |
+| [Understanding the CSS Box Model](https://webdesign.tutsplus.com/courses/understanding-the-css-box-model) | 📹   | 🆓 |
+| [CSS Animations](http://animista.net/)                                                                    | 🌐   | 🆓 |
+| [Visual CSS Grid Cheat Sheet](http://grid.malven.co/)                                                     | 🌐   | 🆓 |
+| [Peek at other site styles](http://stylifyme.com/)                                                        | 🌐   | 🆓 |
+| [Material Colours](https://www.materialui.co/colors)                                                      | 🌐   | 🆓 |
+| [CSS Plant](http://www.cssplant.com/)                                                                     | 🌐   | 🆓 |
+| [CSS Clip Path](https://bennettfeely.com/clippy/)                                                         | 🌐   | 🆓 |
 
 ---
 
@@ -43,20 +43,20 @@ learn new things, be more productive, and perhaps also help you become better at
 
 | Resources                                                                            | Type | Cost |
 | ------------------------------------------------------------------------------------ |------|:----:|
-| [Web Dev Simplied](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw)         |  📹  | ```Free``` |
-| [freeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)             |  📹  | ```Free``` |
-| [Traversy Media](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)           |  📹  | ```Free``` |
-| [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)            |  📹  | ```Free``` |
-| [fun fun function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)         |  📹  | ```Free``` |
-| [JSConf](https://www.youtube.com/channel/UCzoVCacndDCfGDf41P-z0iA)                   |  📹  | ```Free``` |
+| [Web Dev Simplied](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw)         |  📹  | 🆓 |
+| [freeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)             |  📹  | 🆓 |
+| [Traversy Media](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)           |  📹  | 🆓 |
+| [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)            |  📹  | 🆓 |
+| [fun fun function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)         |  📹  | 🆓 |
+| [JSConf](https://www.youtube.com/channel/UCzoVCacndDCfGDf41P-z0iA)                   |  📹  | 🆓 |
 
 ### E-Books 📚
 
 | Resources                                                              | Type | Cost |
 | ---------------------------------------------------------------------- |------|:----:|
-| [Eloquent Javascript](http://eloquentjavascript.net/)                  | 📚   | ```Free``` |
-| [You don't know JS series](https://github.com/getify/You-Dont-Know-JS) | 📚   | ```Free``` |
-| [You don't know JS series](https://github.com/getify/You-Dont-Know-JS) | 📚   | ```Free``` |
+| [Eloquent Javascript](http://eloquentjavascript.net/)                  | 📚   | 🆓 |
+| [You don't know JS series](https://github.com/getify/You-Dont-Know-JS) | 📚   | 🆓 |
+| [You don't know JS series](https://github.com/getify/You-Dont-Know-JS) | 📚   | 🆓 |
 
 ### Terminology
 
@@ -112,9 +112,9 @@ learn new things, be more productive, and perhaps also help you become better at
 
 | Resources                                         | Description                                                 | Type    | Cost |
 |---------------------------------------------------|-------------------------------------------------------------|---------|------|
-|[Syntax](https://syntax.fm/)                       | A weekly podcast about web development                      | 🎵      | ```Free``` |
-|[JavaScript Jabber](https://devchat.tv/js-jabber/) | A weekly podcast discussing the superb language JavaScript. | 🎵      | ```Free``` |
-|[Shoptalk](https://shoptalkshow.com)               | A podcast about front end web design, development and UX.   | 🎵      | ```Free``` |
+|[Syntax](https://syntax.fm/)                       | A weekly podcast about web development                      | 🎵      | 🆓 |
+|[JavaScript Jabber](https://devchat.tv/js-jabber/) | A weekly podcast discussing the superb language JavaScript. | 🎵      | 🆓 |
+|[Shoptalk](https://shoptalkshow.com)               | A podcast about front end web design, development and UX.   | 🎵      | 🆓 |
 
 ---
 
@@ -122,9 +122,9 @@ learn new things, be more productive, and perhaps also help you become better at
 
 | Resources                                 | Description                                                                                  | Type | Cost |
 |-------------------------------------------|----------------------------------------------------------------------------------------------|------|------|
-|[Treehouse](https://blog.teamtreehouse.com)| The Treehouse blog provides valuable content on web development, web design and startup tips.| 🌐📜 | ```Free``` |
-|[.net Magazine](https://www.creativebloq.com/net-magazine)| .net is the world’s best-selling magazine for web designers and developers.   | 🌐📜 | ```Free``` |
-|[CSS-Tricks](https://css-tricks.com)| A web design community.                                                                             | 🌐📜 | ```Free``` |
-|[Smashing Magazine](https://www.smashingmagazine.com/)| An online magazine for professional Web designers and developers.                 | 🌐📜 | ```Free``` |
-|[HTML5 Doctor](http://html5doctor.com/)| A blog to help you learn more about HTML5.                                                       | 🌐📜 | ```Free``` |
-|[CSS Wizardry](https://csswizardry.com)| A specialised blog in writing and scaling CSS for large apps and websites.                       | 🌐📜 | ```Free``` |
+|[Treehouse](https://blog.teamtreehouse.com)| The Treehouse blog provides valuable content on web development, web design and startup tips.| 🌐📜 | 🆓 |
+|[.net Magazine](https://www.creativebloq.com/net-magazine)| .net is the world’s best-selling magazine for web designers and developers.   | 🌐📜 | 🆓 |
+|[CSS-Tricks](https://css-tricks.com)| A web design community.                                                                             | 🌐📜 | 🆓 |
+|[Smashing Magazine](https://www.smashingmagazine.com/)| An online magazine for professional Web designers and developers.                 | 🌐📜 | 🆓 |
+|[HTML5 Doctor](http://html5doctor.com/)| A blog to help you learn more about HTML5.                                                       | 🌐📜 | 🆓 |
+|[CSS Wizardry](https://csswizardry.com)| A specialised blog in writing and scaling CSS for large apps and websites.                       | 🌐📜 | 🆓 |
