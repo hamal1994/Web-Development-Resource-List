@@ -81,21 +81,13 @@ The web is constantly changing and as a web developer you have to be able to ada
 
 ## Text Editors 💥
 
-| Text Editors | Atom | VS Code | Sublime | Brackets | Vim  |
-|--------------|------|---------|---------|----------|------|
-| Price        | Free | Free    |  £      | Free     | Free |
-| Stability    | 👊   | ☝️      | ☝️     | 👊       | ☝️   |
-| Speed        | 👊   | 👊      | ☝️     | 👊       | ☝️   |
-| UI/UX        | ☝️   | ☝️      | 👊     | ☝️       | 👇   |
-| Custom       | ☝️   | 👊      | ☝️     | 👊       | ☝️   |
-
-| Text Editor Pages                        |
-|:----------------------------------------:|
-| [Atom](https://atom.io/)                 |
-| [VS Code](https://code.visualstudio.com/)|
-| [Sublime](https://www.sublimetext.com/3) |
-| [Brackets](http://brackets.io/)          |
-| [Vim](https://www.vim.org/)              |
+| Text Editors | Atom | VS Code | Sublime | Brackets | Vim  | Text Editor Pages                        |
+|--------------|------|---------|---------|----------|------|------------------------------------------|
+| Price        | Free | Free    |  £      | Free     | Free | [Atom](https://atom.io/)                 |
+| Stability    | 👊   | ☝️      | ☝️     | 👊       | ☝️   | [VS Code](https://code.visualstudio.com/)|
+| Speed        | 👊   | 👊      | ☝️     | 👊       | ☝️   | [Sublime](https://www.sublimetext.com/3) |
+| UI/UX        | ☝️   | ☝️      | 👊     | ☝️       | 👇   | [Brackets](http://brackets.io/)          |
+| Custom       | ☝️   | 👊      | ☝️     | 👊       | ☝️   | [Vim](https://www.vim.org/)              |
 
  ## Online Text Editors
 
