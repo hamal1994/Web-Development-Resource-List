@@ -1,4 +1,4 @@
-# Web Development Resourse List
+# Web Development Resource List
 
 📱 💻 🖥️
 
@@ -6,13 +6,13 @@ The web is constantly changing and as a web developer you have to be able to ada
 
 ## Internet/Web 🌐
 
-| Resources                                                                                                            | Type | Cost |
-| :------------------------------------------------------------------------------------------------------------------- |:-----|:----:|
-| [How the internet works](https://www.helloitsliam.com/2014/12/20/how-the-internet-works-infographic/)                | 📷   | Free |
-| [What is the Internet](https://www.youtube.com/watch?v=Dxcc6ycZ73M)                                                  | 📹   | Free |
-| [Internet Fundamentals](http://internetfundamentals.com/)                                                            | 📹   | Free |
+| Resources                                                                                              | Type | Cost |
+| :------------------------------------------------------------------------------------------------------|:-----|:----:|
+| [How the internet works](https://www.helloitsliam.com/2014/12/20/how-the-internet-works-infographic/)  | 📷   | Free |
+| [What is the Internet](https://www.youtube.com/watch?v=Dxcc6ycZ73M)                                    | 📹   | Free |
+| [Internet Fundamentals](http://internetfundamentals.com/)                                              | 📹   | Free |
 
-*************************************************************************
+---
 
 ## HTML 💥
 
@@ -21,7 +21,7 @@ The web is constantly changing and as a web developer you have to be able to ada
 | [Introduction to HTML](https://scrimba.com/g/ghtml)                                                                           | 👨‍💻 👩‍💻 📹 | Free |
 | [Semantic HTML: How to Structure Web Pages](https://webdesign.tutsplus.com/courses/semantic-html-how-to-structure-web-pages)  | 📹       | Free  |
 
-*************************************************************************
+---
 
 ## CSS 💥
 
@@ -35,7 +35,7 @@ The web is constantly changing and as a web developer you have to be able to ada
 | [CSS Plant](http://www.cssplant.com/)                                                                     | 🌐   | Free |
 | [CSS Clip Path](https://bennettfeely.com/clippy/)                                                         | 🌐   | Free |
 
-*************************************************************************
+---
 
 ## Javascript💥
 
@@ -52,9 +52,9 @@ The web is constantly changing and as a web developer you have to be able to ada
 
 | Resources                                                              | Type | Cost |
 | ---------------------------------------------------------------------- |------|:----:|
-| [Eloquent Javascript](http://eloquentjavascript.net/)                  |      | Free |
-| [You don't know JS series](https://github.com/getify/You-Dont-Know-JS) |      | Free |
-| [You don't know JS series](https://github.com/getify/You-Dont-Know-JS) |      | Free |
+| [Eloquent Javascript](http://eloquentjavascript.net/)                  | 📚   | Free |
+| [You don't know JS series](https://github.com/getify/You-Dont-Know-JS) | 📚   | Free |
+| [You don't know JS series](https://github.com/getify/You-Dont-Know-JS) | 📚   | Free |
 
 ### Terminology
 
@@ -77,38 +77,41 @@ The web is constantly changing and as a web developer you have to be able to ada
 
 * [CJ Gammon YouTube](https://www.youtube.com/channel/UCFbkyvvsEQn7AmQO6_G5J-A)
 
-*************************************************************************
+---
 
 ## Text Editors 💥
 
-|           | Atom | VS Code | Sublime | Brackets | Vim  |
-|-----------|------|---------|---------|----------|------|
-| Price     | Free | Free    | £       | Free     | Free |
-| Stability | 👊   | ☝️      | ☝️     | 👊       | ☝️   |
-| Speed     | 👊   | 👊      | ☝️     | 👊       | ☝️   |
-| UI/UX     | ☝️   | ☝️      | 👊     | ☝️       | 👇   |
-| Custom    | ☝️   | 👊      | ☝️     | 👊       | ☝️   |
+| Text Editors | Atom | VS Code | Sublime | Brackets | Vim  |
+|--------------|------|---------|---------|----------|------|
+| Price        | Free | Free    |  £      | Free     | Free |
+| Stability    | 👊   | ☝️      | ☝️     | 👊       | ☝️   |
+| Speed        | 👊   | 👊      | ☝️     | 👊       | ☝️   |
+| UI/UX        | ☝️   | ☝️      | 👊     | ☝️       | 👇   |
+| Custom       | ☝️   | 👊      | ☝️     | 👊       | ☝️   |
 
-### Text Editor pages
-[Atom](https://atom.io/)
-[VS Code](https://code.visualstudio.com/)
-[Sublime](https://www.sublimetext.com/3)
-[Brackets](http://brackets.io/)
-[Vim](https://www.vim.org/)
+| Text Editor Pages                        |
+|:----------------------------------------:|
+| [Atom](https://atom.io/)                 |
+| [VS Code](https://code.visualstudio.com/)|
+| [Sublime](https://www.sublimetext.com/3) |
+| [Brackets](http://brackets.io/)          |
+| [Vim](https://www.vim.org/)              |
 
-## Online Text Editors
+ ## Online Text Editors
 
-* [CodePen [free to £]](https://codepen.io/)
-* [jsfiddle](https://jsfiddle.net/)
+| Online Text Editors                      |
+|:----------------------------------------:|
+| [CodePen ](https://codepen.io/)          |
+| [jsfiddle](https://jsfiddle.net/)        |
 
-*************************************************************************
+---
 
 ## Optimisation Tips and Tools 💥
 
 * [Essential Image Optimisation](https://images.guide/)
 * [Tiny Png](https://tinypng.com/)
 
-*************************************************************************
+---
 
 ## YouTube and Podcasts 💥
 
@@ -118,7 +121,7 @@ The web is constantly changing and as a web developer you have to be able to ada
 |[JavaScript Jabber](https://devchat.tv/js-jabber/) | A weekly podcast discussing the superb language JavaScript. | Podcast |      |
 |[Shoptalk](https://shoptalkshow.com)               | A podcast about front end web design, development and UX.   | Podcast |      |
 
-*************************************************************************
+---
 
 ## Blogs 💥
 
@@ -131,4 +134,4 @@ The web is constantly changing and as a web developer you have to be able to ada
 |[HTML5 Doctor](http://html5doctor.com/)| A blog to help you learn more about HTML5.                                                       |      | Free |
 |[CSS Wizardry](https://csswizardry.com)| A specialised blog in writing and scaling CSS for large apps and websites.                       |      | Free |
 
-*************************************************************************
+---
