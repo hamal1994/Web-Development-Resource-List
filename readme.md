@@ -6,6 +6,8 @@ The web is constantly changing and as a web developer you have to be able to ada
 Here is a huge list of web development resources and tools to help you as a web developer to stay up-to-date,
 learn new things, be more productive, and perhaps also help you become better at what you do.
 
+## Table of contents
+* [General info](##Internet/Web)
 ---
 
 ## Roadmap for Developers
