@@ -58,13 +58,34 @@ learn new things, be more productive, and perhaps also help you become better at
 | [CSS Plant](http://www.cssplant.com/)                                                                     | 🌐 🆓     |
 | [CSS Clip Path](https://bennettfeely.com/clippy/)                                                         | 🌐 🆓     |
 
-## Architecting CSS
+## CSS Tools
+
+### Desktop & Mobile CSS Frameworks
+
+| Resources                                                                                                 | Type / 💷 |
+| --------------------------------------------------------------------------------------------------------- |:---------:|
+| [Base](https://getbase.org/)                                                                              | 🌐 🆓     |
+| [Bulma](https://bulma.io/)                                                                                | 🌐 🆓     |
+| [Skeleton](http://getskeleton.com/)                                                                       | 🌐 🆓     |
+| [Foundation](https://foundation.zurb.com/)                                                                | 🌐 🆓     |
+
+### References
+
+| Resources                                                                                                 | Type / 💷 |
+| --------------------------------------------------------------------------------------------------------- |:---------:|
+| [cssreference.io](https://cssreference.io/)                                                               | 🌐 🆓     |
+| [CSS4 Rocks](http://css4.rocks/)                                                                          | 🌐 🆓     |
+| [css-tricks Almanac](https://css-tricks.com/almanac/)                                                     | 🌐 🆓     |
+| [MDN CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)                           | 🌐 🆓     |
+
+### Architecting CSS
 
 | Resources                                                                                                 | Type / 💷 |
 | --------------------------------------------------------------------------------------------------------- |:---------:|
 | [Atomic Design](http://atomicdesign.bradfrost.com/)                                                       | 🌐 🆓     |
 | [BEM - Block Element Modifier](http://getbem.com/introduction/)                                           | 🌐 🆓     |
 | [ITCSS](https://www.xfive.co/blog/itcss-scalable-maintainable-css-architecture/)                          | 🌐 🆓     |
+| [Bootstrap](https://getbootstrap.com/)                                                                    | 🌐 🆓     |
 
 ---
 
