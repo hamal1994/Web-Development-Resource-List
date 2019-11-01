@@ -10,7 +10,11 @@ learn new things, be more productive, and perhaps also help you become better at
 * [Internet / Web](#Internet-Web)
 * [CSS](#CSS)
 * [HTML](#HTML)
----
+* [JavaScript](#Javascript)
+* [Text Editors](#Text-Editors)
+* [Youtube and Podcasts](#YouTube-and-Podcasts)
+* [Blogs](#Blogs)
+* [Misc](#Misc)
 
 ## Roadmap for Developers
 
@@ -64,7 +68,7 @@ learn new things, be more productive, and perhaps also help you become better at
 | [CSS Plant](http://www.cssplant.com/)                                                                     | 🌐 🆓     |
 | [CSS Clip Path](https://bennettfeely.com/clippy/)                                                         | 🌐 🆓     |
 
-## CSS Tools 🔨
+## CSS Tools
 
 ### Desktop & Mobile CSS Frameworks
 
@@ -95,7 +99,7 @@ learn new things, be more productive, and perhaps also help you become better at
 
 ---
 
-## Javascript💥
+## Javascript
 
 ```
   const firstProgram = () => {
@@ -113,8 +117,7 @@ learn new things, be more productive, and perhaps also help you become better at
 | [JSConf](https://www.youtube.com/channel/UCzoVCacndDCfGDf41P-z0iA)           | 📹 🆓     |
 | [Ecma TC39](https://github.com/tc39)                                         | 🌐 🆓     |
 
-
-## JavaScript Tools 🔨
+## JavaScript Tools
 
 ### Transpiling / Type Checking (ES to ES)
 
@@ -150,7 +153,7 @@ learn new things, be more productive, and perhaps also help you become better at
 
 * [Looping through Objects](https://zellwk.com/blog/looping-through-js-objects/)
 
-## Javascript Libraries💥
+## Javascript Libraries
 
 ### React ⚛️
 
@@ -165,7 +168,7 @@ learn new things, be more productive, and perhaps also help you become better at
 
 ---
 
-## Text Editors 📄
+## Text Editors
 
 | Text Editors      | Atom                     | VS Code                                   | Sublime                                   | Brackets                       | Vim                         |
 |-------------------|--------------------------|-------------------------------------------|-------------------------------------------|--------------------------------|-----------------------------|
@@ -176,7 +179,7 @@ learn new things, be more productive, and perhaps also help you become better at
 | Custom            | ☝️                       | 👊                                        | ☝️                                       | 👊                             | ☝️                          |
 | Text Editor Pages | [Atom](https://atom.io/) | [VS Code](https://code.visualstudio.com/) | [Sublime](https://www.sublimetext.com/3) | [Brackets](http://brackets.io/) | [Vim](https://www.vim.org/) |
 
-## Online Text Editors 🌐📄
+## Online Text Editors
 
 | Online Text Editors | CodePen                         | jsFiddle                          |
 |---------------------|---------------------------------|-----------------------------------|
@@ -189,14 +192,14 @@ learn new things, be more productive, and perhaps also help you become better at
 
 ---
 
-## Optimisation Tips ℹ️ and Tools 🔨
+## Optimisation Tips and Tools
 
 * [Essential Image Optimisation](https://images.guide/)
 * [Tiny Png](https://tinypng.com/)
 
 ---
 
-## YouTube 📹 and Podcasts 🎵
+## YouTube and Podcasts
 
 | Resources                                         | Description                               | 💷 |
 |---------------------------------------------------|-------------------------------------------|----|
@@ -206,7 +209,7 @@ learn new things, be more productive, and perhaps also help you become better at
 
 ---
 
-## Blogs 💥
+## Blogs
 
 | Resources                                 | Description                                                                                  | 💷 |
 |-------------------------------------------|----------------------------------------------------------------------------------------------|----|
