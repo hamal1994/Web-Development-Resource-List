@@ -58,6 +58,14 @@ learn new things, be more productive, and perhaps also help you become better at
 | [CSS Plant](http://www.cssplant.com/)                                                                     | 🌐 🆓     |
 | [CSS Clip Path](https://bennettfeely.com/clippy/)                                                         | 🌐 🆓     |
 
+## Architecting CSS
+
+| Resources                                                                                                 | Type / 💷 |
+| --------------------------------------------------------------------------------------------------------- |:---------:|
+| [Atomic Design](http://atomicdesign.bradfrost.com/)                                                       | 🌐 🆓     |
+| [BEM - Block Element Modifier](http://getbem.com/introduction/)                                           | 🌐 🆓     |
+| [ITCSS](https://www.xfive.co/blog/itcss-scalable-maintainable-css-architecture/)                          | 🌐 🆓     |
+
 ---
 
 ## Javascript💥
@@ -162,3 +170,4 @@ learn new things, be more productive, and perhaps also help you become better at
 | Resources                                 | Description                                                                                  | 💷 |
 |-------------------------------------------|----------------------------------------------------------------------------------------------|----|
 |[Can I use](https://caniuse.com/)| Can I use... Something for HTML5, CSS3, JavaScript, etc - Checks browser compatibility.                | 🆓 |
+|[Code Guide](https://codeguide.co/)| Code Guide - Standards for developing consistent, flexible, and sustainable HTML and CSS             | 🆓 |
