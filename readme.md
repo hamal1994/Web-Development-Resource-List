@@ -7,7 +7,8 @@ Here is a huge list of web development resources and tools to help you as a web 
 learn new things, be more productive, and perhaps also help you become better at what you do.
 
 ## Table of contents
-* [Internet / Web](#Internet/Web)
+* [Internet / Web](#Internet-Web)
+* [CSS](#CSS)
 ---
 
 ## Roadmap for Developers
@@ -22,7 +23,7 @@ learn new things, be more productive, and perhaps also help you become better at
 
 ---
 
-## Internet/Web 🌐
+## Internet-Web 🌐
 
 | Resources                                                                                              | Type / 💷 |
 | :------------------------------------------------------------------------------------------------------|:---------:|
