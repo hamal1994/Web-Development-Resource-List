@@ -8,7 +8,9 @@ learn new things, be more productive, and perhaps also help you become better at
 
 ---
 
-## Roadmap for Developers ( Credit to: @karmran Ahmed )
+## Roadmap for Developers
+
+#### ( Credit to: @karmran Ahmed )
 
 | Resources                                          | Type / 💷|
 | :--------------------------------------------------|:--------:|
