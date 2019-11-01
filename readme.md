@@ -101,6 +101,27 @@ learn new things, be more productive, and perhaps also help you become better at
 | [JSConf](https://www.youtube.com/channel/UCzoVCacndDCfGDf41P-z0iA)           | 📹 🆓     |
 | [Ecma TC39](https://github.com/tc39)                                         | 🌐 🆓     |
 
+
+## JavaScript Tools
+
+### Transpiling / Type Checking (ES to ES)
+
+* This way you can use the latest Ecmascript that all the cool kids are using and still run in on most browsers.
+
+| Resources                                                                               | Type / 💷 |
+| ----------------------------------------------------------------------------------------|:---------:|
+| [Babel](https://babeljs.io/)                                                            | 🌐 🆓     |
+| [Flow](https://flow.org/)                                                               | 🌐 🆓     |
+| [TypeScript](https://www.typescriptlang.org/)                                           | 🌐 🆓     |
+
+## Unit Testing
+
+| Resources                                                           | Type / 💷 |
+| --------------------------------------------------------------------|:---------:|
+| [Mocha](https://mochajs.org/)                                       | 🌐 🆓     |
+| [Jasmine](https://jasmine.github.io/)                               | 🌐 🆓     |
+| [Jest](https://jestjs.io/)                                          | 🌐 🆓     |
+
 ### E-Books 📚
 
 | Resources                                                              | Type / 💷 |
