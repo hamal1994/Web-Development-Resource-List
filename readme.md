@@ -7,7 +7,7 @@ Here is a huge list of web development resources and tools to help you as a web 
 learn new things, be more productive, and perhaps also help you become better at what you do.
 
 ## Table of contents
-* [General info](##Internet/Web)
+* [Internet / Web](#Internet/Web)
 ---
 
 ## Roadmap for Developers
