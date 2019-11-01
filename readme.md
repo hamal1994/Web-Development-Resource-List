@@ -9,6 +9,7 @@ learn new things, be more productive, and perhaps also help you become better at
 ## Table of contents
 * [Internet / Web](#Internet-Web)
 * [CSS](#CSS)
+* [HTML](#HTML)
 ---
 
 ## Roadmap for Developers
@@ -23,7 +24,7 @@ learn new things, be more productive, and perhaps also help you become better at
 
 ---
 
-## Internet-Web 🌐
+## Internet-Web
 
 | Resources                                                                                              | Type / 💷 |
 | :------------------------------------------------------------------------------------------------------|:---------:|
@@ -34,7 +35,7 @@ learn new things, be more productive, and perhaps also help you become better at
 
 ---
 
-## HTML 
+## HTML
 ```<html></html>```
 
 | Resources                                                                                                                     | Type / 💷 |
@@ -44,7 +45,7 @@ learn new things, be more productive, and perhaps also help you become better at
 
 ---
 
-## CSS 💥
+## CSS
 
 ```
   .selector {
