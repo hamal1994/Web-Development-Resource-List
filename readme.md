@@ -91,6 +91,12 @@ learn new things, be more productive, and perhaps also help you become better at
 
 ## Javascript💥
 
+```
+  const firstProgram = () => {
+    console.log('Hello World');
+  }
+```
+
 | Resources                                                                    | Type / 💷 |
 | -----------------------------------------------------------------------------|:---------:|
 | [Web Dev Simplied](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw) | 📹 🆓     |
