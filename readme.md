@@ -58,7 +58,7 @@ learn new things, be more productive, and perhaps also help you become better at
 | [CSS Plant](http://www.cssplant.com/)                                                                     | 🌐 🆓     |
 | [CSS Clip Path](https://bennettfeely.com/clippy/)                                                         | 🌐 🆓     |
 
-## CSS Tools
+## CSS Tools 🔨
 
 ### Desktop & Mobile CSS Frameworks
 
@@ -108,7 +108,7 @@ learn new things, be more productive, and perhaps also help you become better at
 | [Ecma TC39](https://github.com/tc39)                                         | 🌐 🆓     |
 
 
-## JavaScript Tools
+## JavaScript Tools 🔨
 
 ### Transpiling / Type Checking (ES to ES)
 
