@@ -6,6 +6,18 @@ The web is constantly changing and as a web developer you have to be able to ada
 Here is a huge list of web development resources and tools to help you as a web developer to stay up-to-date,
 learn new things, be more productive, and perhaps also help you become better at what you do.
 
+---
+
+## Roadmap for Developers
+
+| Resources                                          | Type / 💷|
+| :--------------------------------------------------|:--------:|
+| [Frontend Developer](https://roadmap.sh/frontend)  | 🌐 🆓    |
+| [Backend Developer](https://roadmap.sh/backend)    | 🌐 🆓    |
+| [DevOps](https://roadmap.sh/devops)                | 🌐 🆓    |
+
+---
+
 ## Internet/Web 🌐
 
 | Resources                                                                                              | Type / 💷 |
@@ -13,6 +25,7 @@ learn new things, be more productive, and perhaps also help you become better at
 | [How the internet works](https://www.helloitsliam.com/2014/12/20/how-the-internet-works-infographic/)  | 📷 🆓     |
 | [What is the Internet](https://www.youtube.com/watch?v=Dxcc6ycZ73M)                                    | 📹 🆓     |
 | [Internet Fundamentals](http://internetfundamentals.com/)                                              | 📹 🆓     |
+| [Submarine Cable Map](https://www.submarinecablemap.com/)                                              | 📹 🆓     |
 
 ---
 
@@ -57,6 +70,7 @@ learn new things, be more productive, and perhaps also help you become better at
 | [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)    | 📹 🆓     |
 | [fun fun function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q) | 📹 🆓     |
 | [JSConf](https://www.youtube.com/channel/UCzoVCacndDCfGDf41P-z0iA)           | 📹 🆓     |
+| [Ecma TC39](https://github.com/tc39)                                         | 🌐 🆓     |
 
 ### E-Books 📚
 
@@ -140,3 +154,11 @@ learn new things, be more productive, and perhaps also help you become better at
 |[Smashing Magazine](https://www.smashingmagazine.com/)| An online magazine for professional Web designers and developers.                 | 🆓 |
 |[HTML5 Doctor](http://html5doctor.com/)| A blog to help you learn more about HTML5.                                                       | 🆓 |
 |[CSS Wizardry](https://csswizardry.com)| A specialised blog in writing and scaling CSS for large apps and websites.                       | 🆓 |
+
+---
+
+## Misc
+
+| Resources                                 | Description                                                                                  | 💷 |
+|-------------------------------------------|----------------------------------------------------------------------------------------------|----|
+|[Can I use](https://caniuse.com/)| Can I use... Something for HTML5, CSS3, JavaScript, etc - Checks browser compatibility.                | 🆓 |
